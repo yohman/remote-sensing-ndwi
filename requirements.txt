@@ -1,4 +1,5 @@
 geopandas
+StringIO
 ee
 matplotlib
 folium
