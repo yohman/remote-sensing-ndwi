@@ -1,0 +1,4 @@
+geopandas
+ee
+matplotlib
+folium
