@@ -6,6 +6,6 @@ This Jupyter Notebook provides an approach that uses Python to import Sentinel-2
 
 ## Example leaflet output
 
-<a href="https://yohman.github.io/remote-sensing-ndwi/kumamoto.html"><img src="ndwi_leaflet.png"></a>
+<a href="https://yohman.github.io/remote-sensing-ndwi/kumamoto.html"><img src="images/ndwi_leaflet.png"></a>
 
 https://yohman.github.io/remote-sensing-ndwi/kumamoto.html
