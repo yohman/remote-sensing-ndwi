@@ -1,4 +1,4 @@
 geopandas
-ee
+earthengine-api
 matplotlib
 folium
