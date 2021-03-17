@@ -1,5 +1,4 @@
 geopandas
-io
 ee
 matplotlib
 folium
